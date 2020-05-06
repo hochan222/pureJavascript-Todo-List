@@ -16,4 +16,6 @@
     - (ps. window.localStorage.setItem, window.localStorage.getItem)  
 ## [o] I can see the JSON built-in library.  
     - (ps.  JSON.stringify)  
+## [o] I can use CSS.
+    - (ps. Google fonts, rem, em, display: flex, box-sizing, justify-content, align-items etc...)
 <br>
